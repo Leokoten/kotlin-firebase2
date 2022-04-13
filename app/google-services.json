@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "34448280271",
+    "project_id": "testes-firebase-86ec1",
+    "storage_bucket": "testes-firebase-86ec1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34448280271:android:a9ed0c6fc9081d239285ba",
+        "android_client_info": {
+          "package_name": "br.com.aulaspuc.mcommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "34448280271-ato28k5127qirprisrricdbaspu0q153.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoD4q4LoayIqTQGHDHHjbNCo1eEHtXl4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "34448280271-ato28k5127qirprisrricdbaspu0q153.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34448280271:android:3efdb257a513838c9285ba",
+        "android_client_info": {
+          "package_name": "br.com.authteste"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "34448280271-ato28k5127qirprisrricdbaspu0q153.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoD4q4LoayIqTQGHDHHjbNCo1eEHtXl4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "34448280271-ato28k5127qirprisrricdbaspu0q153.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
